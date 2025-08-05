@@ -1,0 +1,19 @@
+streamlit
+pandas
+openpyxl
+gpt4all
+
+
+🎯 Summary
+Tools and Purpose
+streamlit	
+- Build interactive web app UI	Excel file upload, chat input, visualizing data
+
+pandas	
+- Handle and analyze tabular data	Load Excel data, calculate sales, insights, etc.
+
+openpyxl	
+- Excel file support in Python	Read .xlsx files when using pandas.read_excel()
+
+gpt4all	
+- Use offline AI models locally	Ask questions to the chatbot (Mistral model)

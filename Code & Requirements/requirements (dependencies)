@@ -17,3 +17,14 @@ openpyxl
 
 gpt4all	
 - Use offline AI models locally	Ask questions to the chatbot (Mistral model)
+
+
+
+Setup:
+main folder
+ |- app.py
+ |- models/
+    | - .gguf file 
+
+open terminal within the folder and type :
+streamlit run app.py
